@@ -1,6 +1,6 @@
-my fisrt repo
+# my fisrt repo
 
 
-##subheader
+## subheader
   watch the pain
 
